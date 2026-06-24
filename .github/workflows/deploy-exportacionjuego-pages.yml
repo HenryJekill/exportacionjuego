@@ -2,7 +2,7 @@
 # .github/workflows/deploy-exportacionjuego-pages.yml
 #
 # Requisitos: carpeta exportacionjuego/ en la raíz con index.html y el build WebGL.
-# En GitHub: Settings → Pages → Source → GitHub Actions.
+# En GitHub: Settings → Pages → Source → GitHub Actions
 
 name: Deploy exportacionjuego to GitHub Pages
 
